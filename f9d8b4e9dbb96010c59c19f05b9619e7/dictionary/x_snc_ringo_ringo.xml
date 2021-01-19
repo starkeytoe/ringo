@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="ringo" max_length="40" name="x_snc_ringo_ringo" sizeclass="0" type="collection">
+        <element label="Number" max_length="40" name="number" type="integer"/>
+    </element>
+</database>
